@@ -1,0 +1,7 @@
+#TreeItem{
+    padding: 5px;
+}
+
+#TreeItem:hover {
+    background-color: #0086b3;
+}

@@ -1,0 +1,23 @@
+#loaderWrapper{
+    position: fixed;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    background-color: rgba(0,0,0,.2);
+    z-index: 1000;
+
+}
+
+#loader{
+    position: fixed;
+    top: calc(50% - 45px);
+    left:50%;
+}
+#loader-message{
+    margin-top:20px;
+}
+
+#ContentWrapper{
+    padding-top: 50px;
+}

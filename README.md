@@ -1,1 +1,1 @@
-# geronimus-server
+# geronimus
